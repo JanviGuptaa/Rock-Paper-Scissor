@@ -2,10 +2,11 @@
   margin: 0;
   padding: 0;
   text-align: center;
+  background-color: #ddd0dd;
 }
 
 h1{
-  background-color: rgb(13, 1, 78);
+  background-color: #500350;
   color: white;
   height: 60px;
   line-height: 60px;
@@ -40,7 +41,7 @@ img{
 }
 
 .choice:hover{
-  opacity: 0.2;
+  opacity: 0.6;
   cursor: pointer;
   background-color: rgb(98, 156, 233);
 }
@@ -64,10 +65,10 @@ img{
 #msg{
   
   display: inline;
-  background-color:rgb(1, 56, 88) ;
+  background-color:#500350 ;
   color: white;
   font-size: 15px;
   border-radius: 12px;
-  padding:5px;
+  padding:6px;
 }
 
