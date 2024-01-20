@@ -12,8 +12,8 @@ h1{
 }
 
 .choice{
-  height: 180px;
-  width: 180px;
+  height: 100px;
+  width: 100px;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -22,11 +22,11 @@ h1{
 }
 
 img{
-  height: 160px;
-  width: 160px;
+  height: 80px;
+  width: 80px;
   object-fit: cover;
   border-radius: 50%;
-  flex-wrap: wrap;
+
   
 }
 
@@ -35,9 +35,8 @@ img{
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
   margin-top: 120px;
-  gap: 60px;
+  gap: 4px;
 }
 
 .choice:hover{
@@ -50,13 +49,13 @@ img{
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: 25px;
+  font-size: 20px;
   margin-top: 50px;
   gap: 50px;
 }
 
 #user-score , #comp-score{
-  font-size: 45px;
+  font-size: 40px;
 
 }
 .msg-container{
